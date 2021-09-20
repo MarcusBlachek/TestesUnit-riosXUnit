@@ -1,0 +1,9 @@
+D:\Estudos .Net\Estudos\xUnit .net\LeilaOnLineCore\bin\Debug\netstandard2.0\LeilaOnLineCore.deps.json
+D:\Estudos .Net\Estudos\xUnit .net\LeilaOnLineCore\bin\Debug\netstandard2.0\LeilaOnLineCore.dll
+D:\Estudos .Net\Estudos\xUnit .net\LeilaOnLineCore\bin\Debug\netstandard2.0\LeilaOnLineCore.pdb
+D:\Estudos .Net\Estudos\xUnit .net\LeilaOnLineCore\obj\Debug\netstandard2.0\LeilaOnLineCore.csprojAssemblyReference.cache
+D:\Estudos .Net\Estudos\xUnit .net\LeilaOnLineCore\obj\Debug\netstandard2.0\LeilaOnLineCore.AssemblyInfoInputs.cache
+D:\Estudos .Net\Estudos\xUnit .net\LeilaOnLineCore\obj\Debug\netstandard2.0\LeilaOnLineCore.AssemblyInfo.cs
+D:\Estudos .Net\Estudos\xUnit .net\LeilaOnLineCore\obj\Debug\netstandard2.0\LeilaOnLineCore.csproj.CoreCompileInputs.cache
+D:\Estudos .Net\Estudos\xUnit .net\LeilaOnLineCore\obj\Debug\netstandard2.0\LeilaOnLineCore.dll
+D:\Estudos .Net\Estudos\xUnit .net\LeilaOnLineCore\obj\Debug\netstandard2.0\LeilaOnLineCore.pdb
